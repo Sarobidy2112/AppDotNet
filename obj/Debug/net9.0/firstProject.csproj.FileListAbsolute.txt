@@ -1,0 +1,343 @@
+/home/mikalo7/Documents/dotnet/firstProject/bin/Debug/net9.0/appsettings.Development.json
+/home/mikalo7/Documents/dotnet/firstProject/bin/Debug/net9.0/appsettings.json
+/home/mikalo7/Documents/dotnet/firstProject/bin/Debug/net9.0/firstProject.staticwebassets.runtime.json
+/home/mikalo7/Documents/dotnet/firstProject/bin/Debug/net9.0/firstProject.staticwebassets.endpoints.json
+/home/mikalo7/Documents/dotnet/firstProject/bin/Debug/net9.0/firstProject
+/home/mikalo7/Documents/dotnet/firstProject/bin/Debug/net9.0/firstProject.deps.json
+/home/mikalo7/Documents/dotnet/firstProject/bin/Debug/net9.0/firstProject.runtimeconfig.json
+/home/mikalo7/Documents/dotnet/firstProject/bin/Debug/net9.0/firstProject.dll
+/home/mikalo7/Documents/dotnet/firstProject/bin/Debug/net9.0/firstProject.pdb
+/home/mikalo7/Documents/dotnet/firstProject/bin/Debug/net9.0/Humanizer.dll
+/home/mikalo7/Documents/dotnet/firstProject/bin/Debug/net9.0/Microsoft.Bcl.AsyncInterfaces.dll
+/home/mikalo7/Documents/dotnet/firstProject/bin/Debug/net9.0/Microsoft.CodeAnalysis.dll
+/home/mikalo7/Documents/dotnet/firstProject/bin/Debug/net9.0/Microsoft.CodeAnalysis.CSharp.dll
+/home/mikalo7/Documents/dotnet/firstProject/bin/Debug/net9.0/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+/home/mikalo7/Documents/dotnet/firstProject/bin/Debug/net9.0/Microsoft.CodeAnalysis.Workspaces.dll
+/home/mikalo7/Documents/dotnet/firstProject/bin/Debug/net9.0/Microsoft.EntityFrameworkCore.dll
+/home/mikalo7/Documents/dotnet/firstProject/bin/Debug/net9.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/home/mikalo7/Documents/dotnet/firstProject/bin/Debug/net9.0/Microsoft.EntityFrameworkCore.Design.dll
+/home/mikalo7/Documents/dotnet/firstProject/bin/Debug/net9.0/Microsoft.EntityFrameworkCore.Relational.dll
+/home/mikalo7/Documents/dotnet/firstProject/bin/Debug/net9.0/Microsoft.Extensions.DependencyModel.dll
+/home/mikalo7/Documents/dotnet/firstProject/bin/Debug/net9.0/Mono.TextTemplating.dll
+/home/mikalo7/Documents/dotnet/firstProject/bin/Debug/net9.0/MySqlConnector.dll
+/home/mikalo7/Documents/dotnet/firstProject/bin/Debug/net9.0/Pomelo.EntityFrameworkCore.MySql.dll
+/home/mikalo7/Documents/dotnet/firstProject/bin/Debug/net9.0/System.CodeDom.dll
+/home/mikalo7/Documents/dotnet/firstProject/bin/Debug/net9.0/System.Composition.AttributedModel.dll
+/home/mikalo7/Documents/dotnet/firstProject/bin/Debug/net9.0/System.Composition.Convention.dll
+/home/mikalo7/Documents/dotnet/firstProject/bin/Debug/net9.0/System.Composition.Hosting.dll
+/home/mikalo7/Documents/dotnet/firstProject/bin/Debug/net9.0/System.Composition.Runtime.dll
+/home/mikalo7/Documents/dotnet/firstProject/bin/Debug/net9.0/System.Composition.TypedParts.dll
+/home/mikalo7/Documents/dotnet/firstProject/bin/Debug/net9.0/cs/Microsoft.CodeAnalysis.resources.dll
+/home/mikalo7/Documents/dotnet/firstProject/bin/Debug/net9.0/de/Microsoft.CodeAnalysis.resources.dll
+/home/mikalo7/Documents/dotnet/firstProject/bin/Debug/net9.0/es/Microsoft.CodeAnalysis.resources.dll
+/home/mikalo7/Documents/dotnet/firstProject/bin/Debug/net9.0/fr/Microsoft.CodeAnalysis.resources.dll
+/home/mikalo7/Documents/dotnet/firstProject/bin/Debug/net9.0/it/Microsoft.CodeAnalysis.resources.dll
+/home/mikalo7/Documents/dotnet/firstProject/bin/Debug/net9.0/ja/Microsoft.CodeAnalysis.resources.dll
+/home/mikalo7/Documents/dotnet/firstProject/bin/Debug/net9.0/ko/Microsoft.CodeAnalysis.resources.dll
+/home/mikalo7/Documents/dotnet/firstProject/bin/Debug/net9.0/pl/Microsoft.CodeAnalysis.resources.dll
+/home/mikalo7/Documents/dotnet/firstProject/bin/Debug/net9.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+/home/mikalo7/Documents/dotnet/firstProject/bin/Debug/net9.0/ru/Microsoft.CodeAnalysis.resources.dll
+/home/mikalo7/Documents/dotnet/firstProject/bin/Debug/net9.0/tr/Microsoft.CodeAnalysis.resources.dll
+/home/mikalo7/Documents/dotnet/firstProject/bin/Debug/net9.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+/home/mikalo7/Documents/dotnet/firstProject/bin/Debug/net9.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+/home/mikalo7/Documents/dotnet/firstProject/bin/Debug/net9.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/mikalo7/Documents/dotnet/firstProject/bin/Debug/net9.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/mikalo7/Documents/dotnet/firstProject/bin/Debug/net9.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/mikalo7/Documents/dotnet/firstProject/bin/Debug/net9.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/mikalo7/Documents/dotnet/firstProject/bin/Debug/net9.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/mikalo7/Documents/dotnet/firstProject/bin/Debug/net9.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/mikalo7/Documents/dotnet/firstProject/bin/Debug/net9.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/mikalo7/Documents/dotnet/firstProject/bin/Debug/net9.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/mikalo7/Documents/dotnet/firstProject/bin/Debug/net9.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/mikalo7/Documents/dotnet/firstProject/bin/Debug/net9.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/mikalo7/Documents/dotnet/firstProject/bin/Debug/net9.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/mikalo7/Documents/dotnet/firstProject/bin/Debug/net9.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/mikalo7/Documents/dotnet/firstProject/bin/Debug/net9.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/mikalo7/Documents/dotnet/firstProject/bin/Debug/net9.0/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/mikalo7/Documents/dotnet/firstProject/bin/Debug/net9.0/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/mikalo7/Documents/dotnet/firstProject/bin/Debug/net9.0/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/mikalo7/Documents/dotnet/firstProject/bin/Debug/net9.0/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/mikalo7/Documents/dotnet/firstProject/bin/Debug/net9.0/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/mikalo7/Documents/dotnet/firstProject/bin/Debug/net9.0/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/mikalo7/Documents/dotnet/firstProject/bin/Debug/net9.0/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/mikalo7/Documents/dotnet/firstProject/bin/Debug/net9.0/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/mikalo7/Documents/dotnet/firstProject/bin/Debug/net9.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/mikalo7/Documents/dotnet/firstProject/bin/Debug/net9.0/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/mikalo7/Documents/dotnet/firstProject/bin/Debug/net9.0/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/mikalo7/Documents/dotnet/firstProject/bin/Debug/net9.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/mikalo7/Documents/dotnet/firstProject/bin/Debug/net9.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/mikalo7/Documents/dotnet/firstProject/bin/Debug/net9.0/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/mikalo7/Documents/dotnet/firstProject/bin/Debug/net9.0/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/mikalo7/Documents/dotnet/firstProject/bin/Debug/net9.0/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/mikalo7/Documents/dotnet/firstProject/bin/Debug/net9.0/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/mikalo7/Documents/dotnet/firstProject/bin/Debug/net9.0/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/mikalo7/Documents/dotnet/firstProject/bin/Debug/net9.0/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/mikalo7/Documents/dotnet/firstProject/bin/Debug/net9.0/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/mikalo7/Documents/dotnet/firstProject/bin/Debug/net9.0/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/mikalo7/Documents/dotnet/firstProject/bin/Debug/net9.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/mikalo7/Documents/dotnet/firstProject/bin/Debug/net9.0/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/mikalo7/Documents/dotnet/firstProject/bin/Debug/net9.0/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/mikalo7/Documents/dotnet/firstProject/bin/Debug/net9.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/mikalo7/Documents/dotnet/firstProject/bin/Debug/net9.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/mikalo7/Documents/dotnet/firstProject/obj/Debug/net9.0/firstProject.csproj.AssemblyReference.cache
+/home/mikalo7/Documents/dotnet/firstProject/obj/Debug/net9.0/firstProject.GeneratedMSBuildEditorConfig.editorconfig
+/home/mikalo7/Documents/dotnet/firstProject/obj/Debug/net9.0/firstProject.AssemblyInfoInputs.cache
+/home/mikalo7/Documents/dotnet/firstProject/obj/Debug/net9.0/firstProject.AssemblyInfo.cs
+/home/mikalo7/Documents/dotnet/firstProject/obj/Debug/net9.0/firstProject.csproj.CoreCompileInputs.cache
+/home/mikalo7/Documents/dotnet/firstProject/obj/Debug/net9.0/firstProject.MvcApplicationPartsAssemblyInfo.cache
+/home/mikalo7/Documents/dotnet/firstProject/obj/Debug/net9.0/firstProject.RazorAssemblyInfo.cache
+/home/mikalo7/Documents/dotnet/firstProject/obj/Debug/net9.0/firstProject.RazorAssemblyInfo.cs
+/home/mikalo7/Documents/dotnet/firstProject/obj/Debug/net9.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+/home/mikalo7/Documents/dotnet/firstProject/obj/Debug/net9.0/scopedcss/bundle/firstProject.styles.css
+/home/mikalo7/Documents/dotnet/firstProject/obj/Debug/net9.0/scopedcss/projectbundle/firstProject.bundle.scp.css
+/home/mikalo7/Documents/dotnet/firstProject/obj/Debug/net9.0/compressed/78ff0rsyzu-b9sayid5wm.gz
+/home/mikalo7/Documents/dotnet/firstProject/obj/Debug/net9.0/compressed/a5jgwtx8je-61n19gt1b8.gz
+/home/mikalo7/Documents/dotnet/firstProject/obj/Debug/net9.0/compressed/30s17kv2j1-xtxxf3hu2r.gz
+/home/mikalo7/Documents/dotnet/firstProject/obj/Debug/net9.0/compressed/uqoyrpko6e-bqjiyaj88i.gz
+/home/mikalo7/Documents/dotnet/firstProject/obj/Debug/net9.0/compressed/sqcfkjtvft-c2jlpeoesf.gz
+/home/mikalo7/Documents/dotnet/firstProject/obj/Debug/net9.0/compressed/46k8pvttta-erw9l3u2r3.gz
+/home/mikalo7/Documents/dotnet/firstProject/obj/Debug/net9.0/compressed/emwdedvugd-aexeepp0ev.gz
+/home/mikalo7/Documents/dotnet/firstProject/obj/Debug/net9.0/compressed/h5rv1zxyot-d7shbmvgxk.gz
+/home/mikalo7/Documents/dotnet/firstProject/obj/Debug/net9.0/compressed/xcm385fy4o-ausgxo2sd3.gz
+/home/mikalo7/Documents/dotnet/firstProject/obj/Debug/net9.0/compressed/14e5aukw25-k8d9w2qqmf.gz
+/home/mikalo7/Documents/dotnet/firstProject/obj/Debug/net9.0/compressed/etaq1we2qt-cosvhxvwiu.gz
+/home/mikalo7/Documents/dotnet/firstProject/obj/Debug/net9.0/compressed/9176zc61w5-ub07r2b239.gz
+/home/mikalo7/Documents/dotnet/firstProject/obj/Debug/net9.0/compressed/3c7s2uj5lz-fvhpjtyr6v.gz
+/home/mikalo7/Documents/dotnet/firstProject/obj/Debug/net9.0/compressed/08gy1qs43f-b7pk76d08c.gz
+/home/mikalo7/Documents/dotnet/firstProject/obj/Debug/net9.0/compressed/qdg70bvdn9-fsbi9cje9m.gz
+/home/mikalo7/Documents/dotnet/firstProject/obj/Debug/net9.0/compressed/umfnj74o9z-rzd6atqjts.gz
+/home/mikalo7/Documents/dotnet/firstProject/obj/Debug/net9.0/compressed/ndjboc20wn-ee0r1s7dh0.gz
+/home/mikalo7/Documents/dotnet/firstProject/obj/Debug/net9.0/compressed/uo1gwj179z-dxx9fxp4il.gz
+/home/mikalo7/Documents/dotnet/firstProject/obj/Debug/net9.0/compressed/v0ro1xq1ji-jd9uben2k1.gz
+/home/mikalo7/Documents/dotnet/firstProject/obj/Debug/net9.0/compressed/ny6na3o5yu-khv3u5hwcm.gz
+/home/mikalo7/Documents/dotnet/firstProject/obj/Debug/net9.0/compressed/7oz2i6tfky-r4e9w2rdcm.gz
+/home/mikalo7/Documents/dotnet/firstProject/obj/Debug/net9.0/compressed/mhufucq207-lcd1t2u6c8.gz
+/home/mikalo7/Documents/dotnet/firstProject/obj/Debug/net9.0/compressed/42mcij46v3-c2oey78nd0.gz
+/home/mikalo7/Documents/dotnet/firstProject/obj/Debug/net9.0/compressed/p7zdnhkag6-tdbxkamptv.gz
+/home/mikalo7/Documents/dotnet/firstProject/obj/Debug/net9.0/compressed/7q0mxw7dr7-j5mq2jizvt.gz
+/home/mikalo7/Documents/dotnet/firstProject/obj/Debug/net9.0/compressed/yeyag07n78-06098lyss8.gz
+/home/mikalo7/Documents/dotnet/firstProject/obj/Debug/net9.0/compressed/6mrvpzkesn-nvvlpmu67g.gz
+/home/mikalo7/Documents/dotnet/firstProject/obj/Debug/net9.0/compressed/wbwebwpzb3-s35ty4nyc5.gz
+/home/mikalo7/Documents/dotnet/firstProject/obj/Debug/net9.0/compressed/ldnyz9dtlu-pj5nd1wqec.gz
+/home/mikalo7/Documents/dotnet/firstProject/obj/Debug/net9.0/compressed/ykty82rlmc-46ein0sx1k.gz
+/home/mikalo7/Documents/dotnet/firstProject/obj/Debug/net9.0/compressed/3l5y234x0a-v0zj4ognzu.gz
+/home/mikalo7/Documents/dotnet/firstProject/obj/Debug/net9.0/compressed/24jxs8r7p7-37tfw0ft22.gz
+/home/mikalo7/Documents/dotnet/firstProject/obj/Debug/net9.0/compressed/ka886m9vav-hrwsygsryq.gz
+/home/mikalo7/Documents/dotnet/firstProject/obj/Debug/net9.0/compressed/vywdveg4eq-pk9g2wxc8p.gz
+/home/mikalo7/Documents/dotnet/firstProject/obj/Debug/net9.0/compressed/5xa3ic99qq-ft3s53vfgj.gz
+/home/mikalo7/Documents/dotnet/firstProject/obj/Debug/net9.0/compressed/6gvl1217mn-6cfz1n2cew.gz
+/home/mikalo7/Documents/dotnet/firstProject/obj/Debug/net9.0/compressed/zt2frspib2-6pdc2jztkx.gz
+/home/mikalo7/Documents/dotnet/firstProject/obj/Debug/net9.0/compressed/bg0ngti44o-493y06b0oq.gz
+/home/mikalo7/Documents/dotnet/firstProject/obj/Debug/net9.0/compressed/knqyjaiyqs-iovd86k7lj.gz
+/home/mikalo7/Documents/dotnet/firstProject/obj/Debug/net9.0/compressed/4a5qow1zg9-vr1egmr9el.gz
+/home/mikalo7/Documents/dotnet/firstProject/obj/Debug/net9.0/compressed/2cwgkrw0an-kbrnm935zg.gz
+/home/mikalo7/Documents/dotnet/firstProject/obj/Debug/net9.0/compressed/j254ffdgvr-jj8uyg4cgr.gz
+/home/mikalo7/Documents/dotnet/firstProject/obj/Debug/net9.0/compressed/gausfg0dc5-y7v9cxd14o.gz
+/home/mikalo7/Documents/dotnet/firstProject/obj/Debug/net9.0/compressed/cjcyt7kvqp-notf2xhcfb.gz
+/home/mikalo7/Documents/dotnet/firstProject/obj/Debug/net9.0/compressed/0tdmrx3t9b-h1s4sie4z3.gz
+/home/mikalo7/Documents/dotnet/firstProject/obj/Debug/net9.0/compressed/3icnpunq2g-63fj8s7r0e.gz
+/home/mikalo7/Documents/dotnet/firstProject/obj/Debug/net9.0/compressed/z8j4x7b1zq-0j3bgjxly4.gz
+/home/mikalo7/Documents/dotnet/firstProject/obj/Debug/net9.0/compressed/66v8n0213u-47otxtyo56.gz
+/home/mikalo7/Documents/dotnet/firstProject/obj/Debug/net9.0/compressed/atr3wea5v2-4v8eqarkd7.gz
+/home/mikalo7/Documents/dotnet/firstProject/obj/Debug/net9.0/compressed/qr6gjx8x68-356vix0kms.gz
+/home/mikalo7/Documents/dotnet/firstProject/obj/Debug/net9.0/compressed/6cuma80mze-83jwlth58m.gz
+/home/mikalo7/Documents/dotnet/firstProject/obj/Debug/net9.0/compressed/dse745zojq-mrlpezrjn3.gz
+/home/mikalo7/Documents/dotnet/firstProject/obj/Debug/net9.0/compressed/mlwphe2knm-lzl9nlhx6b.gz
+/home/mikalo7/Documents/dotnet/firstProject/obj/Debug/net9.0/compressed/vq0ylwd6oz-ag7o75518u.gz
+/home/mikalo7/Documents/dotnet/firstProject/obj/Debug/net9.0/compressed/7tr5aogrb6-x0q3zqp4vz.gz
+/home/mikalo7/Documents/dotnet/firstProject/obj/Debug/net9.0/compressed/96gkm5mn85-0i3buxo5is.gz
+/home/mikalo7/Documents/dotnet/firstProject/obj/Debug/net9.0/compressed/i2ud3jlli8-o1o13a6vjx.gz
+/home/mikalo7/Documents/dotnet/firstProject/obj/Debug/net9.0/compressed/6typg3mq5y-ttgo8qnofa.gz
+/home/mikalo7/Documents/dotnet/firstProject/obj/Debug/net9.0/compressed/8rzi4x98ud-2z0ns9nrw6.gz
+/home/mikalo7/Documents/dotnet/firstProject/obj/Debug/net9.0/compressed/fd5t7pho3l-muycvpuwrr.gz
+/home/mikalo7/Documents/dotnet/firstProject/obj/Debug/net9.0/compressed/b93tkuxw8r-87fc7y1x7t.gz
+/home/mikalo7/Documents/dotnet/firstProject/obj/Debug/net9.0/compressed/wofmgj2m62-mlv21k5csn.gz
+/home/mikalo7/Documents/dotnet/firstProject/obj/Debug/net9.0/compressed/kv7xz3k87w-u73xo47ucg.gz
+/home/mikalo7/Documents/dotnet/firstProject/obj/Debug/net9.0/compressed/7grwugu9m5-u73xo47ucg.gz
+/home/mikalo7/Documents/dotnet/firstProject/obj/Debug/net9.0/staticwebassets.build.json
+/home/mikalo7/Documents/dotnet/firstProject/obj/Debug/net9.0/staticwebassets.development.json
+/home/mikalo7/Documents/dotnet/firstProject/obj/Debug/net9.0/staticwebassets.build.endpoints.json
+/home/mikalo7/Documents/dotnet/firstProject/obj/Debug/net9.0/staticwebassets/msbuild.firstProject.Microsoft.AspNetCore.StaticWebAssets.props
+/home/mikalo7/Documents/dotnet/firstProject/obj/Debug/net9.0/staticwebassets/msbuild.firstProject.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+/home/mikalo7/Documents/dotnet/firstProject/obj/Debug/net9.0/staticwebassets/msbuild.build.firstProject.props
+/home/mikalo7/Documents/dotnet/firstProject/obj/Debug/net9.0/staticwebassets/msbuild.buildMultiTargeting.firstProject.props
+/home/mikalo7/Documents/dotnet/firstProject/obj/Debug/net9.0/staticwebassets/msbuild.buildTransitive.firstProject.props
+/home/mikalo7/Documents/dotnet/firstProject/obj/Debug/net9.0/staticwebassets.pack.json
+/home/mikalo7/Documents/dotnet/firstProject/obj/Debug/net9.0/firstPro.4E4E8AFB.Up2Date
+/home/mikalo7/Documents/dotnet/firstProject/obj/Debug/net9.0/firstProject.dll
+/home/mikalo7/Documents/dotnet/firstProject/obj/Debug/net9.0/refint/firstProject.dll
+/home/mikalo7/Documents/dotnet/firstProject/obj/Debug/net9.0/firstProject.pdb
+/home/mikalo7/Documents/dotnet/firstProject/obj/Debug/net9.0/firstProject.genruntimeconfig.cache
+/home/mikalo7/Documents/dotnet/firstProject/obj/Debug/net9.0/ref/firstProject.dll
+C:\Users\VIOTECH\Desktop\DotNet - DEV\firstProject\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\VIOTECH\Desktop\DotNet - DEV\firstProject\bin\Debug\net9.0\appsettings.json
+C:\Users\VIOTECH\Desktop\DotNet - DEV\firstProject\bin\Debug\net9.0\firstProject.staticwebassets.runtime.json
+C:\Users\VIOTECH\Desktop\DotNet - DEV\firstProject\bin\Debug\net9.0\firstProject.staticwebassets.endpoints.json
+C:\Users\VIOTECH\Desktop\DotNet - DEV\firstProject\bin\Debug\net9.0\firstProject.exe
+C:\Users\VIOTECH\Desktop\DotNet - DEV\firstProject\bin\Debug\net9.0\firstProject.deps.json
+C:\Users\VIOTECH\Desktop\DotNet - DEV\firstProject\bin\Debug\net9.0\firstProject.runtimeconfig.json
+C:\Users\VIOTECH\Desktop\DotNet - DEV\firstProject\bin\Debug\net9.0\firstProject.dll
+C:\Users\VIOTECH\Desktop\DotNet - DEV\firstProject\bin\Debug\net9.0\firstProject.pdb
+C:\Users\VIOTECH\Desktop\DotNet - DEV\firstProject\bin\Debug\net9.0\Humanizer.dll
+C:\Users\VIOTECH\Desktop\DotNet - DEV\firstProject\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\VIOTECH\Desktop\DotNet - DEV\firstProject\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+C:\Users\VIOTECH\Desktop\DotNet - DEV\firstProject\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\VIOTECH\Desktop\DotNet - DEV\firstProject\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\VIOTECH\Desktop\DotNet - DEV\firstProject\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\VIOTECH\Desktop\DotNet - DEV\firstProject\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\VIOTECH\Desktop\DotNet - DEV\firstProject\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\VIOTECH\Desktop\DotNet - DEV\firstProject\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\VIOTECH\Desktop\DotNet - DEV\firstProject\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\VIOTECH\Desktop\DotNet - DEV\firstProject\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\VIOTECH\Desktop\DotNet - DEV\firstProject\bin\Debug\net9.0\Mono.TextTemplating.dll
+C:\Users\VIOTECH\Desktop\DotNet - DEV\firstProject\bin\Debug\net9.0\MySqlConnector.dll
+C:\Users\VIOTECH\Desktop\DotNet - DEV\firstProject\bin\Debug\net9.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\VIOTECH\Desktop\DotNet - DEV\firstProject\bin\Debug\net9.0\System.CodeDom.dll
+C:\Users\VIOTECH\Desktop\DotNet - DEV\firstProject\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+C:\Users\VIOTECH\Desktop\DotNet - DEV\firstProject\bin\Debug\net9.0\System.Composition.Convention.dll
+C:\Users\VIOTECH\Desktop\DotNet - DEV\firstProject\bin\Debug\net9.0\System.Composition.Hosting.dll
+C:\Users\VIOTECH\Desktop\DotNet - DEV\firstProject\bin\Debug\net9.0\System.Composition.Runtime.dll
+C:\Users\VIOTECH\Desktop\DotNet - DEV\firstProject\bin\Debug\net9.0\System.Composition.TypedParts.dll
+C:\Users\VIOTECH\Desktop\DotNet - DEV\firstProject\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\VIOTECH\Desktop\DotNet - DEV\firstProject\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\VIOTECH\Desktop\DotNet - DEV\firstProject\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\VIOTECH\Desktop\DotNet - DEV\firstProject\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\VIOTECH\Desktop\DotNet - DEV\firstProject\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\VIOTECH\Desktop\DotNet - DEV\firstProject\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\VIOTECH\Desktop\DotNet - DEV\firstProject\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\VIOTECH\Desktop\DotNet - DEV\firstProject\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\VIOTECH\Desktop\DotNet - DEV\firstProject\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\VIOTECH\Desktop\DotNet - DEV\firstProject\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\VIOTECH\Desktop\DotNet - DEV\firstProject\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\VIOTECH\Desktop\DotNet - DEV\firstProject\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\VIOTECH\Desktop\DotNet - DEV\firstProject\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\VIOTECH\Desktop\DotNet - DEV\firstProject\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\VIOTECH\Desktop\DotNet - DEV\firstProject\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\VIOTECH\Desktop\DotNet - DEV\firstProject\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\VIOTECH\Desktop\DotNet - DEV\firstProject\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\VIOTECH\Desktop\DotNet - DEV\firstProject\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\VIOTECH\Desktop\DotNet - DEV\firstProject\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\VIOTECH\Desktop\DotNet - DEV\firstProject\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\VIOTECH\Desktop\DotNet - DEV\firstProject\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\VIOTECH\Desktop\DotNet - DEV\firstProject\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\VIOTECH\Desktop\DotNet - DEV\firstProject\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\VIOTECH\Desktop\DotNet - DEV\firstProject\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\VIOTECH\Desktop\DotNet - DEV\firstProject\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\VIOTECH\Desktop\DotNet - DEV\firstProject\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\VIOTECH\Desktop\DotNet - DEV\firstProject\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\VIOTECH\Desktop\DotNet - DEV\firstProject\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\VIOTECH\Desktop\DotNet - DEV\firstProject\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\VIOTECH\Desktop\DotNet - DEV\firstProject\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\VIOTECH\Desktop\DotNet - DEV\firstProject\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\VIOTECH\Desktop\DotNet - DEV\firstProject\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\VIOTECH\Desktop\DotNet - DEV\firstProject\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\VIOTECH\Desktop\DotNet - DEV\firstProject\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\VIOTECH\Desktop\DotNet - DEV\firstProject\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\VIOTECH\Desktop\DotNet - DEV\firstProject\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\VIOTECH\Desktop\DotNet - DEV\firstProject\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\VIOTECH\Desktop\DotNet - DEV\firstProject\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\VIOTECH\Desktop\DotNet - DEV\firstProject\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\VIOTECH\Desktop\DotNet - DEV\firstProject\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\VIOTECH\Desktop\DotNet - DEV\firstProject\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\VIOTECH\Desktop\DotNet - DEV\firstProject\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\VIOTECH\Desktop\DotNet - DEV\firstProject\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\VIOTECH\Desktop\DotNet - DEV\firstProject\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\VIOTECH\Desktop\DotNet - DEV\firstProject\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\VIOTECH\Desktop\DotNet - DEV\firstProject\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\VIOTECH\Desktop\DotNet - DEV\firstProject\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\VIOTECH\Desktop\DotNet - DEV\firstProject\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\VIOTECH\Desktop\DotNet - DEV\firstProject\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\VIOTECH\Desktop\DotNet - DEV\firstProject\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\VIOTECH\Desktop\DotNet - DEV\firstProject\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\VIOTECH\Desktop\DotNet - DEV\firstProject\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\VIOTECH\Desktop\DotNet - DEV\firstProject\obj\Debug\net9.0\firstProject.csproj.AssemblyReference.cache
+C:\Users\VIOTECH\Desktop\DotNet - DEV\firstProject\obj\Debug\net9.0\firstProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VIOTECH\Desktop\DotNet - DEV\firstProject\obj\Debug\net9.0\firstProject.AssemblyInfoInputs.cache
+C:\Users\VIOTECH\Desktop\DotNet - DEV\firstProject\obj\Debug\net9.0\firstProject.AssemblyInfo.cs
+C:\Users\VIOTECH\Desktop\DotNet - DEV\firstProject\obj\Debug\net9.0\firstProject.csproj.CoreCompileInputs.cache
+C:\Users\VIOTECH\Desktop\DotNet - DEV\firstProject\obj\Debug\net9.0\firstProject.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\VIOTECH\Desktop\DotNet - DEV\firstProject\obj\Debug\net9.0\firstProject.RazorAssemblyInfo.cache
+C:\Users\VIOTECH\Desktop\DotNet - DEV\firstProject\obj\Debug\net9.0\firstProject.RazorAssemblyInfo.cs
+C:\Users\VIOTECH\Desktop\DotNet - DEV\firstProject\obj\Debug\net9.0\firstProject.sourcelink.json
+C:\Users\VIOTECH\Desktop\DotNet - DEV\firstProject\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\VIOTECH\Desktop\DotNet - DEV\firstProject\obj\Debug\net9.0\scopedcss\bundle\firstProject.styles.css
+C:\Users\VIOTECH\Desktop\DotNet - DEV\firstProject\obj\Debug\net9.0\scopedcss\projectbundle\firstProject.bundle.scp.css
+C:\Users\VIOTECH\Desktop\DotNet - DEV\firstProject\obj\Debug\net9.0\compressed\78ff0rsyzu-b9sayid5wm.gz
+C:\Users\VIOTECH\Desktop\DotNet - DEV\firstProject\obj\Debug\net9.0\compressed\a5jgwtx8je-61n19gt1b8.gz
+C:\Users\VIOTECH\Desktop\DotNet - DEV\firstProject\obj\Debug\net9.0\compressed\30s17kv2j1-xtxxf3hu2r.gz
+C:\Users\VIOTECH\Desktop\DotNet - DEV\firstProject\obj\Debug\net9.0\compressed\uqoyrpko6e-bqjiyaj88i.gz
+C:\Users\VIOTECH\Desktop\DotNet - DEV\firstProject\obj\Debug\net9.0\compressed\sqcfkjtvft-c2jlpeoesf.gz
+C:\Users\VIOTECH\Desktop\DotNet - DEV\firstProject\obj\Debug\net9.0\compressed\46k8pvttta-erw9l3u2r3.gz
+C:\Users\VIOTECH\Desktop\DotNet - DEV\firstProject\obj\Debug\net9.0\compressed\emwdedvugd-aexeepp0ev.gz
+C:\Users\VIOTECH\Desktop\DotNet - DEV\firstProject\obj\Debug\net9.0\compressed\h5rv1zxyot-d7shbmvgxk.gz
+C:\Users\VIOTECH\Desktop\DotNet - DEV\firstProject\obj\Debug\net9.0\compressed\xcm385fy4o-ausgxo2sd3.gz
+C:\Users\VIOTECH\Desktop\DotNet - DEV\firstProject\obj\Debug\net9.0\compressed\14e5aukw25-k8d9w2qqmf.gz
+C:\Users\VIOTECH\Desktop\DotNet - DEV\firstProject\obj\Debug\net9.0\compressed\etaq1we2qt-cosvhxvwiu.gz
+C:\Users\VIOTECH\Desktop\DotNet - DEV\firstProject\obj\Debug\net9.0\compressed\9176zc61w5-ub07r2b239.gz
+C:\Users\VIOTECH\Desktop\DotNet - DEV\firstProject\obj\Debug\net9.0\compressed\3c7s2uj5lz-fvhpjtyr6v.gz
+C:\Users\VIOTECH\Desktop\DotNet - DEV\firstProject\obj\Debug\net9.0\compressed\08gy1qs43f-b7pk76d08c.gz
+C:\Users\VIOTECH\Desktop\DotNet - DEV\firstProject\obj\Debug\net9.0\compressed\qdg70bvdn9-fsbi9cje9m.gz
+C:\Users\VIOTECH\Desktop\DotNet - DEV\firstProject\obj\Debug\net9.0\compressed\umfnj74o9z-rzd6atqjts.gz
+C:\Users\VIOTECH\Desktop\DotNet - DEV\firstProject\obj\Debug\net9.0\compressed\ndjboc20wn-ee0r1s7dh0.gz
+C:\Users\VIOTECH\Desktop\DotNet - DEV\firstProject\obj\Debug\net9.0\compressed\uo1gwj179z-dxx9fxp4il.gz
+C:\Users\VIOTECH\Desktop\DotNet - DEV\firstProject\obj\Debug\net9.0\compressed\v0ro1xq1ji-jd9uben2k1.gz
+C:\Users\VIOTECH\Desktop\DotNet - DEV\firstProject\obj\Debug\net9.0\compressed\ny6na3o5yu-khv3u5hwcm.gz
+C:\Users\VIOTECH\Desktop\DotNet - DEV\firstProject\obj\Debug\net9.0\compressed\7oz2i6tfky-r4e9w2rdcm.gz
+C:\Users\VIOTECH\Desktop\DotNet - DEV\firstProject\obj\Debug\net9.0\compressed\mhufucq207-lcd1t2u6c8.gz
+C:\Users\VIOTECH\Desktop\DotNet - DEV\firstProject\obj\Debug\net9.0\compressed\42mcij46v3-c2oey78nd0.gz
+C:\Users\VIOTECH\Desktop\DotNet - DEV\firstProject\obj\Debug\net9.0\compressed\p7zdnhkag6-tdbxkamptv.gz
+C:\Users\VIOTECH\Desktop\DotNet - DEV\firstProject\obj\Debug\net9.0\compressed\7q0mxw7dr7-j5mq2jizvt.gz
+C:\Users\VIOTECH\Desktop\DotNet - DEV\firstProject\obj\Debug\net9.0\compressed\yeyag07n78-06098lyss8.gz
+C:\Users\VIOTECH\Desktop\DotNet - DEV\firstProject\obj\Debug\net9.0\compressed\6mrvpzkesn-nvvlpmu67g.gz
+C:\Users\VIOTECH\Desktop\DotNet - DEV\firstProject\obj\Debug\net9.0\compressed\wbwebwpzb3-s35ty4nyc5.gz
+C:\Users\VIOTECH\Desktop\DotNet - DEV\firstProject\obj\Debug\net9.0\compressed\ldnyz9dtlu-pj5nd1wqec.gz
+C:\Users\VIOTECH\Desktop\DotNet - DEV\firstProject\obj\Debug\net9.0\compressed\ykty82rlmc-46ein0sx1k.gz
+C:\Users\VIOTECH\Desktop\DotNet - DEV\firstProject\obj\Debug\net9.0\compressed\3l5y234x0a-v0zj4ognzu.gz
+C:\Users\VIOTECH\Desktop\DotNet - DEV\firstProject\obj\Debug\net9.0\compressed\24jxs8r7p7-37tfw0ft22.gz
+C:\Users\VIOTECH\Desktop\DotNet - DEV\firstProject\obj\Debug\net9.0\compressed\ka886m9vav-hrwsygsryq.gz
+C:\Users\VIOTECH\Desktop\DotNet - DEV\firstProject\obj\Debug\net9.0\compressed\vywdveg4eq-pk9g2wxc8p.gz
+C:\Users\VIOTECH\Desktop\DotNet - DEV\firstProject\obj\Debug\net9.0\compressed\5xa3ic99qq-ft3s53vfgj.gz
+C:\Users\VIOTECH\Desktop\DotNet - DEV\firstProject\obj\Debug\net9.0\compressed\6gvl1217mn-6cfz1n2cew.gz
+C:\Users\VIOTECH\Desktop\DotNet - DEV\firstProject\obj\Debug\net9.0\compressed\zt2frspib2-6pdc2jztkx.gz
+C:\Users\VIOTECH\Desktop\DotNet - DEV\firstProject\obj\Debug\net9.0\compressed\bg0ngti44o-493y06b0oq.gz
+C:\Users\VIOTECH\Desktop\DotNet - DEV\firstProject\obj\Debug\net9.0\compressed\knqyjaiyqs-iovd86k7lj.gz
+C:\Users\VIOTECH\Desktop\DotNet - DEV\firstProject\obj\Debug\net9.0\compressed\4a5qow1zg9-vr1egmr9el.gz
+C:\Users\VIOTECH\Desktop\DotNet - DEV\firstProject\obj\Debug\net9.0\compressed\2cwgkrw0an-kbrnm935zg.gz
+C:\Users\VIOTECH\Desktop\DotNet - DEV\firstProject\obj\Debug\net9.0\compressed\j254ffdgvr-jj8uyg4cgr.gz
+C:\Users\VIOTECH\Desktop\DotNet - DEV\firstProject\obj\Debug\net9.0\compressed\gausfg0dc5-y7v9cxd14o.gz
+C:\Users\VIOTECH\Desktop\DotNet - DEV\firstProject\obj\Debug\net9.0\compressed\cjcyt7kvqp-notf2xhcfb.gz
+C:\Users\VIOTECH\Desktop\DotNet - DEV\firstProject\obj\Debug\net9.0\compressed\0tdmrx3t9b-h1s4sie4z3.gz
+C:\Users\VIOTECH\Desktop\DotNet - DEV\firstProject\obj\Debug\net9.0\compressed\3icnpunq2g-63fj8s7r0e.gz
+C:\Users\VIOTECH\Desktop\DotNet - DEV\firstProject\obj\Debug\net9.0\compressed\z8j4x7b1zq-0j3bgjxly4.gz
+C:\Users\VIOTECH\Desktop\DotNet - DEV\firstProject\obj\Debug\net9.0\compressed\66v8n0213u-47otxtyo56.gz
+C:\Users\VIOTECH\Desktop\DotNet - DEV\firstProject\obj\Debug\net9.0\compressed\atr3wea5v2-4v8eqarkd7.gz
+C:\Users\VIOTECH\Desktop\DotNet - DEV\firstProject\obj\Debug\net9.0\compressed\qr6gjx8x68-356vix0kms.gz
+C:\Users\VIOTECH\Desktop\DotNet - DEV\firstProject\obj\Debug\net9.0\compressed\6cuma80mze-83jwlth58m.gz
+C:\Users\VIOTECH\Desktop\DotNet - DEV\firstProject\obj\Debug\net9.0\compressed\dse745zojq-mrlpezrjn3.gz
+C:\Users\VIOTECH\Desktop\DotNet - DEV\firstProject\obj\Debug\net9.0\compressed\mlwphe2knm-lzl9nlhx6b.gz
+C:\Users\VIOTECH\Desktop\DotNet - DEV\firstProject\obj\Debug\net9.0\compressed\vq0ylwd6oz-ag7o75518u.gz
+C:\Users\VIOTECH\Desktop\DotNet - DEV\firstProject\obj\Debug\net9.0\compressed\7tr5aogrb6-x0q3zqp4vz.gz
+C:\Users\VIOTECH\Desktop\DotNet - DEV\firstProject\obj\Debug\net9.0\compressed\96gkm5mn85-0i3buxo5is.gz
+C:\Users\VIOTECH\Desktop\DotNet - DEV\firstProject\obj\Debug\net9.0\compressed\i2ud3jlli8-o1o13a6vjx.gz
+C:\Users\VIOTECH\Desktop\DotNet - DEV\firstProject\obj\Debug\net9.0\compressed\6typg3mq5y-ttgo8qnofa.gz
+C:\Users\VIOTECH\Desktop\DotNet - DEV\firstProject\obj\Debug\net9.0\compressed\8rzi4x98ud-2z0ns9nrw6.gz
+C:\Users\VIOTECH\Desktop\DotNet - DEV\firstProject\obj\Debug\net9.0\compressed\fd5t7pho3l-muycvpuwrr.gz
+C:\Users\VIOTECH\Desktop\DotNet - DEV\firstProject\obj\Debug\net9.0\compressed\b93tkuxw8r-87fc7y1x7t.gz
+C:\Users\VIOTECH\Desktop\DotNet - DEV\firstProject\obj\Debug\net9.0\compressed\wofmgj2m62-mlv21k5csn.gz
+C:\Users\VIOTECH\Desktop\DotNet - DEV\firstProject\obj\Debug\net9.0\compressed\kv7xz3k87w-8l3s3a55km.gz
+C:\Users\VIOTECH\Desktop\DotNet - DEV\firstProject\obj\Debug\net9.0\compressed\7grwugu9m5-8l3s3a55km.gz
+C:\Users\VIOTECH\Desktop\DotNet - DEV\firstProject\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\VIOTECH\Desktop\DotNet - DEV\firstProject\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\VIOTECH\Desktop\DotNet - DEV\firstProject\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\VIOTECH\Desktop\DotNet - DEV\firstProject\obj\Debug\net9.0\staticwebassets\msbuild.firstProject.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\VIOTECH\Desktop\DotNet - DEV\firstProject\obj\Debug\net9.0\staticwebassets\msbuild.firstProject.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\VIOTECH\Desktop\DotNet - DEV\firstProject\obj\Debug\net9.0\staticwebassets\msbuild.build.firstProject.props
+C:\Users\VIOTECH\Desktop\DotNet - DEV\firstProject\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.firstProject.props
+C:\Users\VIOTECH\Desktop\DotNet - DEV\firstProject\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.firstProject.props
+C:\Users\VIOTECH\Desktop\DotNet - DEV\firstProject\obj\Debug\net9.0\staticwebassets.pack.json
+C:\Users\VIOTECH\Desktop\DotNet - DEV\firstProject\obj\Debug\net9.0\firstPro.4E4E8AFB.Up2Date
+C:\Users\VIOTECH\Desktop\DotNet - DEV\firstProject\obj\Debug\net9.0\firstProject.dll
+C:\Users\VIOTECH\Desktop\DotNet - DEV\firstProject\obj\Debug\net9.0\refint\firstProject.dll
+C:\Users\VIOTECH\Desktop\DotNet - DEV\firstProject\obj\Debug\net9.0\firstProject.pdb
+C:\Users\VIOTECH\Desktop\DotNet - DEV\firstProject\obj\Debug\net9.0\firstProject.genruntimeconfig.cache
+C:\Users\VIOTECH\Desktop\DotNet - DEV\firstProject\obj\Debug\net9.0\ref\firstProject.dll
